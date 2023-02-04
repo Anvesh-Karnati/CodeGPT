@@ -7,9 +7,7 @@
   font-family: "Alegreya Sans", sans-serif;
 }
 
-body {
-  background: #343541;
-}
+
 
 #app {
   width: 100vw;
@@ -20,6 +18,10 @@ body {
   flex-direction: column;
   align-items: center;
   justify-content: space-between;
+}
+
+body {
+  background: #343541;
 }
 
 #chat_container {
